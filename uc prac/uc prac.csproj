@@ -104,6 +104,12 @@
     <Compile Include="upr2.Designer.cs">
       <DependentUpon>upr2.cs</DependentUpon>
     </Compile>
+    <Compile Include="upr3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="upr3.Designer.cs">
+      <DependentUpon>upr3.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -121,6 +127,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="upr2.resx">
       <DependentUpon>upr2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="upr3.resx">
+      <DependentUpon>upr3.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
