@@ -39,5 +39,11 @@ namespace uc_prac
             Form form = new upr3();
             form.ShowDialog();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form form = new upr4();
+            form.ShowDialog();
+        }
     }
 }

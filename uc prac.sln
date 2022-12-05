@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uc prac", "uc prac\uc prac.csproj", "{CEA0AF5C-5F2F-42B0-BC31-E78137F3EC2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectDB", "ConnectDB\ConnectDB.csproj", "{D6B2B7C9-C84B-40A1-A589-917DC933CC10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CEA0AF5C-5F2F-42B0-BC31-E78137F3EC2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEA0AF5C-5F2F-42B0-BC31-E78137F3EC2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEA0AF5C-5F2F-42B0-BC31-E78137F3EC2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B2B7C9-C84B-40A1-A589-917DC933CC10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B2B7C9-C84B-40A1-A589-917DC933CC10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B2B7C9-C84B-40A1-A589-917DC933CC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B2B7C9-C84B-40A1-A589-917DC933CC10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
